@@ -7,9 +7,9 @@ The repository covers Python fundamentals and essential libraries such as **NumP
 
 ---
 
-## **Modules Overview**  
+## **Tutorial Overview**  
 
-### **Module 1: Basics of Python**  
+### **Tutorial 1: Basics of Python**  
 - **Description**: Learn Python programming from scratch. This module covers fundamental concepts, including variables, data types, loops, functions, and file handling.  
 - **Topics Covered**:  
   - Introduction to Python syntax  
@@ -18,7 +18,7 @@ The repository covers Python fundamentals and essential libraries such as **NumP
 
 ---
 
-### **Module 2: NumPy**  
+### **Tutorial 2: NumPy**  
 - **Description**: Master numerical computing using the NumPy library. This module introduces powerful tools for working with large datasets, mathematical operations, and arrays.  
 - **Topics Covered**:  
   - Arrays and array manipulation  
@@ -28,7 +28,7 @@ The repository covers Python fundamentals and essential libraries such as **NumP
 
 ---
 
-### **Module 3: Pandas**  
+### **Tutorial 3: Pandas**  
 - **Description**: Learn to manipulate and analyze data efficiently using Pandas. This module is perfect for tasks like cleaning, organizing, and transforming datasets.  
 - **Topics Covered**:  
   - Data structures: Series and DataFrames  
@@ -38,7 +38,7 @@ The repository covers Python fundamentals and essential libraries such as **NumP
 
 ---
 
-### **Module 4: Matplotlib**  
+### **Tutorial 4: Matplotlib**  
 - **Description**: Create compelling visualizations using Matplotlib. This module teaches you how to present data effectively through a wide range of plots.  
 - **Topics Covered**:  
   - Basic plotting (line, scatter, bar, histogram, etc.)  
@@ -48,7 +48,7 @@ The repository covers Python fundamentals and essential libraries such as **NumP
 
 ---
 
-### **Module 5: SciPy**  
+### **Tutorial 5: SciPy**  
 - **Description**: Dive into scientific computing with SciPy. This module introduces tools for optimization, integration, interpolation, and signal processing.  
 - **Topics Covered**:    
   - Integration and solving differential equations  
